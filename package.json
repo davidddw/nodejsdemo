@@ -1,0 +1,28 @@
+{
+  "name": "lcwebapi",
+  "version": "0.1.0",
+  "description": "lcwebapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "restify": "2.6.2",
+    "node-uuid": "1.4.7",
+    "winston": "0.8.1",
+    "graceful-fs": "2.0.3",
+    "jsdoc": "3.4.0",
+    "validator": "3.35.0",
+    "bunyan": "1.5.1",
+    "mysql": "2.10.2"
+  }
+}
